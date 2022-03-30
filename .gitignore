@@ -66,7 +66,7 @@ target/
 
 # Environments
 .venv
-venv/
+../../../Deep_learning_projects/Bike_sharing_prediction/venv/
 ENV/
 
 # Rope project settings
